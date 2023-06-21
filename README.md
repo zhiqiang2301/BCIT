@@ -1,12 +1,18 @@
-# 👋 Bluetooth communication between Raspberry Pi and Arduino UNO R3
+---
+description: >-
+  In the tutorial, you will learn how to carry out communication between your
+  Raspberry Pi and your Arduino UNO R3 via Bluetooth.
+---
+
+# 👋 Giao tiep bluetooth giua Raspberry Pi va Arduino UNO R3
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Note:**&#x20;
 {% endhint %}
 
-## Overview
+## Tong quan
 
-Here are a couple of example overviews from products with really great docs:
+
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
@@ -18,14 +24,14 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+## Parts Required
 
-{% content-ref url="overview/parts-required.md" %}
-[parts-required.md](overview/parts-required.md)
+{% content-ref url="project-overview/what-we-do.md" %}
+[what-we-do.md](project-overview/what-we-do.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="project-overview/our-features.md" %}
+[our-features.md](project-overview/our-features.md)
 {% endcontent-ref %}
 
 ## Get Started
