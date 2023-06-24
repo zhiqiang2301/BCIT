@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Giao tiep bluetooth giua Raspberry Pi va Arduino UNO R3](README.md)
+* [👋 Giao tiếp Bluetooth giữa Raspberry Pi và Arduino UNO](README.md)
 
-## Project Overview
+## Overview
 
-* [💡 What we do](project-overview/what-we-do.md)
-* [✨ Our Features](project-overview/our-features.md)
+* [💡 Parts Required](overview/parts-required.md)
+* [✨ Our Features](overview/our-features.md)
 
 ## Product Guides
 
